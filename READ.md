@@ -37,7 +37,7 @@ This is a GUI-based number guessing game where:
 
 | Welcome Page | Level Selection | Game Page |
 |--------------|-----------------|------------|
-| ![Welcome](screenshots/welcome.png) | ![Levels](screenshots/level.png) | ![Game](screenshots/game.png) |
+| ![Welcome](screenshots/welcome.png) | ![Level](screenshots/level.png) | ![Game](screenshots/game.png) |
 
 ---
 
