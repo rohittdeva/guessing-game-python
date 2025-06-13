@@ -1,0 +1,4 @@
+# GUI framework (usually built-in with Python)
+tk
+
+# Only required for logging or basic operations, already standard
